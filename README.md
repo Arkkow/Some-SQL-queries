@@ -1,2 +1,2 @@
-# Some-SQL-queries
-Some queries made for studies.
+# Some SQL queries
+SQL queries with the tasks from studies.
